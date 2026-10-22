@@ -1,2 +1,3 @@
-# Regolith-Issues
-Issue tracker for the Regolith map editor.
+# Regolith
+
+Regolith is a standalone map editor made in Godot, for Godot.
