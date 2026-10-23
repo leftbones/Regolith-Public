@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report a problem with Regolith
-title: "[Bug Report] My PC blew up"
+title: "[Bug Report] "
 labels: bug
 assignees: leftbones
 type: Bug

@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Request a feature in Regolith
-title: "[Feature Request]"
+title: "[Feature Request] "
 labels: enhancement
 assignees: leftbones
 type: Feature
